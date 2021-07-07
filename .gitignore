@@ -15,3 +15,13 @@ Session.vim
 .netrwhist
 *~
 
+# build
+build/*
+
+# videos, wavs and temps
+*.wav
+*.mp4
+*.mkv
+*.mov
+*.MOV
+tmp*
