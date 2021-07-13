@@ -1,0 +1,27 @@
+# ---> Linux
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# ---> Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# build
+build/*
+
+# videos, wavs and temps
+*.wav
+*.mp4
+*.mkv
+*.mov
+*.MOV
+tmp*

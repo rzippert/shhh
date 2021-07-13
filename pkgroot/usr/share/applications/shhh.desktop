@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=shhh
+Name[pt_BR]=shhh
+Comment=Audio and video noise remover
+Comment[pt_BR]=Removedor de ruído de áudio e vídeo
+Categories=AudioVideo;
+Exec=shhh
+Icon=shhh
+Terminal=false
+Type=Application
+StartupNotify=true
